@@ -5,7 +5,7 @@
 🕊️ I'm HUFS global 18.  
 👀 My major is Computer Electronic System Engineering & Japanese Interpretation and Translation.  
 
-💬 いっしょうに勉強しよう！
+💬 いっしょに勉強しよう！
 
 ##
 🌱 I’m currently learning now...
