@@ -13,7 +13,7 @@
 
 ##
 📫 How to reach me ...
-- wwwbyn@naver.com
+- `wwwbyn@naver.com`
 
 <!--
 **soob2n/soob2n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
